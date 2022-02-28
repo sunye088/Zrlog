@@ -1,0 +1,5 @@
+2022-02-27 16:00:50,821 - rquestsutil.py[line:12] - INFO: 请求的url为http://47.100.37.140/api/admin/login，类型为<class 'str'>
+2022-02-27 16:00:50,821 - rquestsutil.py[line:14] - INFO: 请求的method为post，类型为<class 'str'>
+2022-02-27 16:00:50,821 - rquestsutil.py[line:16] - INFO: 请求的data为{'userName': 'admin', 'password': 123456, 'https': False, 'keyi': 1606792942688}，类型为<class 'dict'>
+2022-02-27 16:00:50,821 - rquestsutil.py[line:18] - INFO: 请求的headers为{'Content-Type': 'application/json'}，类型为<class 'dict'>
+2022-02-27 16:00:50,821 - rquestsutil.py[line:20] - INFO: 请求的cookies为None，类型为<class 'NoneType'>
